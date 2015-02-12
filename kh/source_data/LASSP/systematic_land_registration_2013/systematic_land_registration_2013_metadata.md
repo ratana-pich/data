@@ -1,10 +1,10 @@
 Title
 
-Systematic Land Registration in Cambodia (2013)
+Systematic land registration in Cambodia (2013)
 
 Description
 
-This dataset describes the status of systematic land registration in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management's Land Administration Sub-Sector Program (LASSP) 2013 newsletter. Data were provided to ODC in vector format by Save Cambodia's Wildlife's Atlas Working Group.
+This dataset describes the status of systematic land registration (SLR) in Cambodia's communes by March 2013, as given in the Cambodian Ministry of Land Management, Urban Planning and Construction's Land Administration Sub-Sector Program (LASSP) 2013 newsletter. Data were provided to Open Development Cambodia (ODC) in vector format by Save Cambodia's Wildlife's Atlas Working Group.
 
 Format
 
@@ -34,7 +34,7 @@ Date Uploaded
 
 2014-06-24
 
-Date Last Updated
+Date Modified
 
 2014-06-25
 
@@ -56,17 +56,17 @@ There are no known issues with logical consistency.
 
 Completeness
 
-This dataset provides SLR registration as of March 2013. According to Save Cambodia's Wildlife's Atlas of Cambodia, the government intended to extend SLR to all Cambodian provinces from September 2013.
+This dataset provides SLR as of March 2013. According to Save Cambodia's Wildlife's Atlas of Cambodia, the government intended to extend SLR to all Cambodian provinces from September 2013.
 
-Processes
+Process(es)
 
-Data were provided to Open Development Cambodia directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in GeoTIFF format. The data were then changed to CSV format.
+Data were provided to ODC directly by Save Cambodia's Wildlife's 2013 Atlas Working Group in vector format. The data were then changed to CSV format.
 
-Sources
+Source(s)
 
-Ministry of Land Management, Urban Planning and Construction. Land Administration Sub-Sector Program (LASSP) newsletter. Phnom Penh, 2013.
+Ministry of Land Management, Urban Planning and Construction. Land Administration Sub-Sector Program (LASSP). (title) newsletter. 2013.
 
-Save Cambodia's Wildlife. "Land." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 131. Print.
+Save Cambodia's Wildlife. "Land." *Atlas of Cambodia: maps on socio-economic development and environment*. Second ed. Phnom Penh, 2014. 131. Print.
 
 Contact
 
@@ -74,7 +74,7 @@ Save Cambodia's Wildlife
 info@cambodiaswildlife.org  
 +855 23 88 20 35  
 http://cambodiaswildlife.org/  
-6Eo St. 570, Sangkat Boeung Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.  
+6Eo St. 570, Sangkat Boeng Kak 2, Khan Tuol Kork, Phnom Penh, Cambodia.  
 
 Metadata Reference
 
@@ -84,7 +84,7 @@ Open Development Cambodia
 contact@opendevcam.net  
 +855 23 221 164  
 http://www.opendevelopmentcambodia.net  
-43 St. 208, Sangkat Boeung Riang, Khan Daun Penh, Phnom Penh, Cambodia  
+43 St. 208, Sangkat Boeng Riang, Khan Daun Penh, Phnom Penh, Cambodia  
 
 Attributes
 
